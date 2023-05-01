@@ -10,4 +10,13 @@ The prices of other commodities are also set in relatively simple ways. Take the
 
 If you're interested, the answer is about 5.7 million dollars (1.5 million per litre). By contrast, gas costs about 7 cents per troy ounce and bottled water 23 cents. Are these ridiculous comparisons? In some ways, the answer is "yes"... you're not going to the gas station to "fill 'er up" with 20 gallons gold, lol. However, knowing that bottled water is 5 times the price of gas is useful. Interestingly, gold is about a million times more expensive than gas, but only 200,000 times more expensive than bottled water.
 
+To put the price of bottled water vs. gas in a more appropriate context one need only examine a utilities bill. I currently pay $1.59 per cubic metre, or 1,000 litres. This means that gas is 1,000 times more expensive than tap water, but bottled water is 5,000 times more expensive! The companies that bottle water actually pay far less than that, they effectively pay nothing.
+
+Look at a table of the price of tap water, bottled water gas and gold:
+gold is a billion times more expenisve than tap water
+
+In this context things become more meaningful 
+
+
 The goal of this project is to make price comparisons of many different commodities using a somewhat Minecraftesc approach, and standardizing on a single unit of measurement: price per cubic metre.
+
