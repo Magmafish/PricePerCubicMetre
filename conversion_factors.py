@@ -1,4 +1,5 @@
 # Conversion factors for volume units
+
 volume_conversion_factors = {
     'm3': 1,                     # 1 m³ = 1 m³
     'L': 1e-3,                   # convert litres to m³
@@ -9,7 +10,8 @@ volume_conversion_factors = {
     'fl_oz': 2.95735e-5,         # convert fluid ounces to m³
     'cu_in': 1.63871e-5,         # convert cubic inches to m³
     'cu_ft': 0.0283168,          # convert cubic feet to m³
-    'cu_yard': 0.764555          # convert cubic yard to m³
+    'cu_yard': 0.764555,         # convert cubic yard to m³
+    'BBL': 0.158987294928        # convert barrel to m³
 }
 
 # Conversion factors for mass/weight units
@@ -23,5 +25,5 @@ mass_conversion_factors = {
     'kt': 0.0002,                # convert karats value to kg
     'ton': 907.185,              # convert ton to kg
     'long_ton': 1016.05,         # convert long ton (UK) to kg
-    't': 1000                    # convert metric ton to kg
+    't': 1000                   # convert metric ton to kg
 }
