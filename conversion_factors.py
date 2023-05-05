@@ -12,7 +12,8 @@ volume_conversion_factors = {
     'cu_ft': 0.0283168,         # convert cubic feet to m³
     'cu_yard': 0.764555,        # convert cubic yard to m³
     'BBL': 0.158987294928,      # convert barrel to m³
-    'BF_1000': 2.35974          # convert 1000 board feet to m³
+    'BF_1000': 2.35974,          # convert 1000 board feet to m³
+    'MMBtu':  28.3168,           # convert Million British Thermal Units to m³
 }
 
 # Conversion factors for mass/weight units
@@ -27,5 +28,5 @@ mass_conversion_factors = {
     'ton': 907.185,             # convert ton to kg
     'long_ton': 1016.05,        # convert long ton (UK) to kg
     't': 1000,                  # convert metric ton to kg
-    'BU_60': 27.2155            # convert 60 lbs to kg
+    'BU_60': 27.2155,            # convert 60 lbs to kg
 }
