@@ -13,8 +13,8 @@ volume_conversion_factors = {
     'cu_yard': 0.764555,        # convert cubic yard to m³
     'BBL': 0.158987294928,      # convert barrel to m³
     'BF_1000': 2.35974,         # convert 1000 board feet to m³
-    'MMBtu':  28.3168,          # convert Million British Thermal Units (gas) to m³
-    'MWh': 0.010354             # convert MWh (gas) to m³
+    'MMBtu': 28.3168,           # convert Million British Thermal Units (gas) to m³
+    'MWh': 8.29883488e-6        # convert MWh (gas) to m³
 }
 
 # Conversion factors for mass/weight units
